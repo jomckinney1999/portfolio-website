@@ -1,2 +1,5 @@
-# portfolio-website
-Visit My Portfolio Website to Learn More About What I Do &amp; Have Done!
+# Portfolio Website
+
+This repository contains the code and assets for my personal portfolio site: [jojodoesdata.com](https://jojodoesdata.com).
+
+Stay tuned for updates and improvements!
